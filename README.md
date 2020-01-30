@@ -20,20 +20,20 @@ El movimiento de la cabeza se usará solo para ver el entorno.
 ## SCRIPTS
 
 * Creación del tanque
-** Scripts de movimiento y vida del tanque
-** Canvas para mostrar la vida del tanque y potencia de disparo
+    * Scripts de movimiento y vida del tanque
+    * Canvas para mostrar la vida del tanque y potencia de disparo
 
 * Creación de las balas:
-** Scripts de disparo de proyectiles(en el tanque)
-** Scripts de funcionamiento de la bala(Daños, alcance, explosión)
+    * Scripts de disparo de proyectiles(en el tanque)
+    * Scripts de funcionamiento de la bala(Daños, alcance, explosión)
 
 * Canvas de evolución del juego
 
 * GameController
-** Control de la evolución del juego:
-*** comienzo de partida
-*** muerte del jugador y enemigos
-*** finalización y reinicio de la partida
+    * Control de la evolución del juego:
+        * comienzo de partida
+        * muerte del jugador y enemigos
+        * finalización y reinicio de la partida
 
 ## ASPECTOS DESTACABLES
 
