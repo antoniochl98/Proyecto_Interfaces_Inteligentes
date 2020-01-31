@@ -47,7 +47,7 @@ Objetivos a destruir para ganar el juego
 
 #### INICIO Y MOVIMIENTO
 
-![inicio](./img/inincio.gif)
+![inicio](./img/inicio.gif)
 
 ![movimiento](./img/movimiento.gif)
 
