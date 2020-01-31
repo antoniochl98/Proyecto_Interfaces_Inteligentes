@@ -51,9 +51,11 @@ Objetivos a destruir para ganar el juego
 
 ![movimiento](./img/movimiento.gif)
 
-#### DISPARO
+#### DISPARO Y DESTRUCCIÓN DE ENEMIGOS
 
 ![disparar](./img/disparar.gif)
+
+![explosion](./img/explosion.gif)
 
 #### VICTORIA
 
