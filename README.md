@@ -45,6 +45,26 @@ Objetivos a destruir para ganar el juego
 
 ## GIFS
 
+#### INICIO Y MOVIMIENTO
+
+![inicio](./img/inincio.gif)
+
+![movimiento](./img/movimiento.gif)
+
+#### DISPARO
+
+![disparar](./img/disparar.gif)
+
+#### VICTORIA
+
+![victoria](./img/victoria.gif)
+
+#### MUERTE Y PERDER
+
+![muerte](./img/muerte.gif)
+
+![perder](./img/perder.gif)
+
 ## ACTA DE LOS ACUERDOS DEL GRUPO
 
 #### Reparto de tareas
